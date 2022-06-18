@@ -40,7 +40,7 @@ public class Main {
 		circ cir= new circ(8);
 		cir.circleArea();
 		System.out.println(" ");
-		System.out.println("add one more record");
+		System.out.println(" new record for another circle & rectangle ");
 		System.out.println(" ");
 		
 		circ cir2= new circ(9);
